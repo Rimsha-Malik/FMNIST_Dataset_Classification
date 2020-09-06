@@ -6,3 +6,9 @@ In this project the Images belong to 10 classes are classified by using Convolut
 
 3-The dataset contains 70000 images each 28 by 28 pixels.They are divided into 60000 training datasets and 10000 testing datasets.
 
+4-Before runing colab file you have to download data from kaggle.It have two csv files named as fashion-mnist_test and fashion-mnist_train.
+
+5-Put the above files in folder named as fmnistData.And this folder should be in FashionMNIST(where FashionClassification.ipynb is present).
+
+6-Now you are all ready to run this file on colab:)
+
